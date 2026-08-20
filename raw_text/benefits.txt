@@ -1,0 +1,102 @@
+HEALTHCARE BENEFIT PLAN SUMMARY & POLICY SCHEDULE
+Effective Plan Year: 2026-2027
+
+================================================================================
+SECTION 1: OVERVIEW OF COVERAGE TIERS & BENEFIT PLANS
+================================================================================
+
+This document provides a comprehensive summary of covered healthcare services, cost-sharing requirements, deductibles, copayments, and policy limitations for enrolled members. Coverage details apply to the following standard plans:
+
+1. GOLD PPO (Plan ID: P101)
+   - Monthly Premium: .00
+   - Annual Individual Deductible: ,000.00 (In-Network) / ,000.00 (Out-of-Network)
+   - Annual Family Deductible: ,000.00 (In-Network) / ,000.00 (Out-of-Network)
+   - Coinsurance: 10% after deductible for preferred in-network providers; 30% for out-of-network providers.
+   - Out-of-Pocket Maximum: ,500.00 Individual / ,000.00 Family.
+   - Network Flexibility: Primary Care Physician (PCP) referral not required for specialist visits. Out-of-network provider care covered with higher cost-sharing.
+
+2. SILVER HMO (Plan ID: P102)
+   - Monthly Premium: .00
+   - Annual Individual Deductible: ,500.00 (In-Network Only)
+   - Annual Family Deductible: ,000.00 (In-Network Only)
+   - Coinsurance: 20% after deductible for network providers.
+   - Out-of-Pocket Maximum: ,000.00 Individual / ,000.00 Family.
+   - Network Flexibility: In-network provider coverage only (except for verified emergency medical conditions). PCP assignment and referrals are required for specialist consultations.
+
+3. BRONZE HMO (Plan ID: P103)
+   - Monthly Premium: .00
+   - Annual Individual Deductible: ,000.00 (In-Network Only)
+   - Annual Family Deductible: ,000.00 (In-Network Only)
+   - Coinsurance: 30% after deductible for network providers.
+   - Out-of-Pocket Maximum: ,500.00 Individual / ,000.00 Family.
+   - Network Flexibility: In-network provider care only. PCP selection mandatory; specialist services require formal prior authorization and referral.
+
+================================================================================
+SECTION 2: PREVENTIVE AND PRIMARY CARE SERVICES
+================================================================================
+
+1. Preventive Care Services (ACA Compliant):
+   - Annual routine physical exam, well-child visits, and standard immunizations: Covered at 100% ( copay, deductible waived across all plans when using in-network providers).
+   - Routine screenings: Mammography, colonoscopy, Pap smear, diabetes screening, lipid panels covered with no member cost-sharing for age-appropriate guidelines.
+
+2. Primary Care Physician (PCP) Office Visits:
+   - Gold PPO (P101):  copay per visit; deductible does not apply.
+   - Silver HMO (P102):  copay per visit; deductible does not apply.
+   - Bronze HMO (P103):  copay per visit; deductible does not apply.
+
+3. Specialist Consultations:
+   - Gold PPO (P101):  copay per visit (In-Network); 30% coinsurance after deductible (Out-of-Network).
+   - Silver HMO (P102):  copay per visit with PCP referral.
+   - Bronze HMO (P103):  copay per visit with PCP referral.
+
+================================================================================
+SECTION 3: DIAGNOSTIC TESTING, IMAGING, AND LABORATORY SERVICES
+================================================================================
+
+1. Laboratory & Pathology Tests:
+   - Blood tests, urinalysis, cultures: Covered at plan coinsurance rate after annual deductible.
+   - Independent diagnostic laboratory facilities preferred over hospital-based outpatient labs.
+
+2. Diagnostic Imaging:
+   - Routine X-Rays: Covered subject to copay or coinsurance (e.g.,  copay on Gold PPO; 20% coinsurance on Silver HMO after deductible).
+   - Advanced Imaging (MRI, CT Scans, PET Scans): Subject to mandatory Pre-Authorization. Covered at plan coinsurance after annual deductible.
+
+================================================================================
+SECTION 4: HOSPITALIZATION, SURGERY, AND EMERGENCY SERVICES
+================================================================================
+
+1. Inpatient Hospital Stays:
+   - Semi-private room, board, intensive care, and general nursing care: Plan coinsurance applies after deductible.
+   - Prior authorization required for all non-emergency hospital admissions at least 5 business days prior to admission.
+
+2. Outpatient Surgery:
+   - Ambulatory surgery centers and hospital outpatient surgical suites: Plan coinsurance applies after annual deductible.
+
+3. Emergency Room (ER) Care:
+   - In-network and out-of-network emergency room visits: Covered at  copay per visit, waived if admitted directly to the hospital within 24 hours. Plan coinsurance applies to physician charges.
+
+4. Urgent Care Centers:
+   - Gold PPO:  copay per visit.
+   - Silver HMO:  copay per visit.
+   - Bronze HMO:  copay per visit.
+
+================================================================================
+SECTION 5: PRESCRIPTION DRUG FORMULARY
+================================================================================
+
+Prescription drugs are classified into four tiers:
+- Tier 1 (Generic Drugs):  copay per 30-day supply (Retail) /  copay per 90-day supply (Mail Order).
+- Tier 2 (Preferred Brand Name):  copay per 30-day supply.
+- Tier 3 (Non-Preferred Brand Name):  copay per 30-day supply.
+- Tier 4 (Specialty Biologics & Injectables): 25% coinsurance up to a maximum of  per prescription. Requires prior authorization and specialty pharmacy dispensing.
+
+================================================================================
+SECTION 6: EXCLUSIONS AND GENERAL LIMITATIONS
+================================================================================
+
+The following services are not covered under standard medical benefit plans unless explicitly mandated by law or rider:
+- Cosmetic procedures and elective surgeries not medically necessary.
+- Non-emergency services received outside the designated provider network (for HMO plans).
+- Experimental, investigational, or unapproved clinical trials not accredited by recognized health authorities.
+- Adult routine dental and vision correction exams (available through optional supplementary dental/vision riders).
+- Custodial long-term nursing home care.

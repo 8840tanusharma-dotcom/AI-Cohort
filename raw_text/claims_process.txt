@@ -1,0 +1,95 @@
+HEALTHCARE CLAIMS PROCESSING, ADJUDICATION, AND APPEALS MANUAL
+Standard Operating Guide for Plan Members and Administrators
+
+================================================================================
+SECTION 1: OVERVIEW OF THE CLAIMS SUBMISSION LIFECYCLE
+================================================================================
+
+When you receive medical treatment, healthcare claims follow one of two submission paths depending on whether your service provider participates in our network:
+
+1. In-Network Automatic Filing:
+   - Participating network hospitals, clinics, and physicians file claims directly on behalf of the member.
+   - The provider accepts the contracted negotiated rate and bills the plan directly.
+   - The member is responsible only for applicable deductibles, copayments, or coinsurance stated on the Explanation of Benefits (EOB).
+
+2. Out-of-Network Member-Initiated Filing:
+   - If you receive covered emergency care or authorized out-of-network services (Gold PPO), you may need to pay the provider upfront and submit a manual claim form for reimbursement.
+   - All manual claims must be submitted to the Claims Department within the timely filing window.
+
+================================================================================
+SECTION 2: STEP-BY-STEP CLAIM FILING INSTRUCTIONS
+================================================================================
+
+To submit a paper or digital claim for reimbursement, follow these mandatory steps:
+
+Step 1: Obtain the Standard Member Claim Form
+- Download Form CLM-2026 (Medical Claim Reimbursement Request) from the member portal.
+
+Step 2: Collect Required Documentation
+Every claim packet must include the following verified attachments:
+1. Itemized Provider Bill showing:
+   - Date(s) of service.
+   - Standard Medical Coding: CPT / HCPCS procedure codes and ICD-10 diagnostic codes.
+   - Itemized breakdown of individual charges.
+   - Rendering provider name, National Provider Identifier (NPI), tax ID, and physical address.
+2. Proof of Payment:
+   - Credit card receipt, canceled check, or zero-balance receipt showing member payment for out-of-pocket amounts.
+3. Medical Necessity Documentation:
+   - Operative notes, diagnostic imaging reports (e.g., X-ray, MRI reports), or doctor referral letters when required.
+
+Step 3: Submit the Completed Packet
+- Online Submission: Upload PDF scans through the Secure Member Web Portal.
+- Mail Submission: Send original claim forms and copies of itemized receipts to:
+  Claims Processing Center, Attention: Member Services, PO Box 4020, Healthcare Operations.
+
+Step 4: Submission Deadlines (Timely Filing Limit)
+- Standard Claims: Must be submitted within 90 calendar days from the date the medical service was rendered.
+- Foreign / Out-of-Country Emergency Claims: Must be submitted within 180 calendar days from the date of service, accompanied by certified English translations and currency conversion documentation.
+
+================================================================================
+SECTION 3: CLAIM ADJUDICATION STATUSES AND DEFINITIONS
+================================================================================
+
+Once received, claims are processed through the automated adjudication engine. Member claims display one of the following statuses:
+
+1. Pending / Under Review:
+   - The claim has been logged and is awaiting clinical review, fee verification, or supplemental documentation from the provider or member. Average processing duration: 10 to 14 business days.
+
+2. Approved:
+   - The service is verified as covered under the plan schedule. Payment has been calculated according to deductible and coinsurance rules, and payment has been authorized to the provider or member.
+
+3. Partially Approved / Adjusted:
+   - A portion of the claim has been approved, while certain line items were disallowed (e.g., non-covered supplies, charge exceeding maximum allowable rate).
+
+4. Denied:
+   - The claim has been rejected. Common denial reason codes include:
+     * ERR-01: Service not covered under member benefit schedule.
+     * ERR-02: Missing required Prior Authorization before procedure date.
+     * ERR-03: Timely filing limit exceeded (submitted after 90-day deadline).
+     * ERR-04: Out-of-network provider utilized without valid PCP referral (HMO plans).
+     * ERR-05: Duplicate claim submission.
+
+================================================================================
+SECTION 4: READING YOUR EXPLANATION OF BENEFITS (EOB)
+================================================================================
+
+An Explanation of Benefits (EOB) is generated for every adjudicated claim. It is not a bill. The EOB contains:
+- Billed Amount: The gross amount submitted by the medical provider.
+- Plan Allowed Amount: The negotiated contracted maximum rate permitted for the procedure.
+- Plan Paid: The amount paid by your healthcare policy.
+- Member Responsibility: The balance owed by you to the provider, representing your copay, unmet annual deductible, or coinsurance percentage.
+
+================================================================================
+SECTION 5: DISPUTE RESOLUTION AND FORMAL APPEALS PROCESS
+================================================================================
+
+If your claim is partially or fully denied, you possess the legal right to appeal the determination:
+
+Level 1: Internal Administrative Appeal
+- Filing Window: You must submit a written Appeal Request Form within 180 calendar days of receiving your denial notice (EOB).
+- Supporting Evidence: Include medical records, physician letters of medical necessity, and clinical rationale.
+- Decision Timeline: Standard appeals are resolved within 30 calendar days for post-service claims (or 72 hours for urgent/pre-service life-threatening conditions).
+
+Level 2: External Independent Review
+- If the Level 1 internal appeal upholds the denial based on medical judgment or experimental exclusion, you may request an Independent External Review within 4 months of the final internal adverse decision.
+- An accredited independent physician panel will review the case. Their ruling is legally binding on the insurance plan.

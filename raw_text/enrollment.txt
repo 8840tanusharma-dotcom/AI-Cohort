@@ -1,0 +1,82 @@
+[OCR EXTRACTED DOCUMENT - ENROLLMENT & ELIGIBILITY VERIFICATION FORM]
+FORM ENR-2026 / HEALTH BENEFIT ENROLLMENT APPLICATION
+
+================================================================================
+PART A: APPLICANT AND EMPLOYEE IDENTIFICATION
+================================================================================
+
+1. Primary Member Details:
+   - Full Legal Name: Tanu Sharma
+   - Identification Number / Member ID: M1001
+   - Date of Birth: 1990-05-14
+   - Social Security Number (Masked): XXX-XX-4819
+   - Physical Residential Address: 104 Innovation Way, Suite 300
+   - Primary Phone Number: (555) 234-8901
+   - Email Address: member.service.archive@example.com
+
+2. Employment & Eligibility Status:
+   - Employment Classification: Regular Full-Time Employee (30+ hours/week)
+   - Date of Hire / Effective Eligibility Date: 2023-01-01
+   - Employer / Plan Sponsor Group ID: GRP-8840-HC
+   - Division / Department: Operations & Engineering
+
+================================================================================
+PART B: COVERAGE ELECTION AND PLAN SELECTION
+================================================================================
+
+1. Selected Health Plan Schedule (Check one option):
+   [X] Option 1: Gold PPO (Plan ID: P101) - Comprehensive In/Out-of-Network (/mo)
+   [ ] Option 2: Silver HMO (Plan ID: P102) - Standard Managed Care (/mo)
+   [ ] Option 3: Bronze HMO (Plan ID: P103) - Essential Value Plan (/mo)
+
+2. Coverage Tier / Category:
+   [X] Individual (Employee Only)
+   [ ] Employee + Legal Spouse / Domestic Partner
+   [ ] Employee + Dependent Children
+   [ ] Family (Employee + Spouse + Dependents)
+
+3. Primary Care Physician (PCP) Designation (Mandatory for HMO, Optional for PPO):
+   - Selected PCP Provider Name: Dr. Sarah Jenkins, MD
+   - Provider National Identifier (NPI): NPI-9081234
+   - Clinic / Facility Name: Metro Health Associates (ID: CLI-002)
+
+================================================================================
+PART C: ENROLLMENT TIMING AND QUALIFYING LIFE EVENTS (QLE)
+================================================================================
+
+1. Enrollment Period Type:
+   [X] Annual Open Enrollment Window (November 1 - December 15)
+   [ ] Initial New Hire Enrollment (Within 30 days of employment start date)
+   [ ] Special Enrollment Period (Qualifying Life Event)
+
+2. Qualifying Life Events (QLE) Eligibility Guidelines:
+   If applying outside the annual open enrollment window, members must submit documented proof of an eligible QLE within thirty (30) calendar days of the qualifying event date:
+   - Marriage or establishment of domestic partnership (Attach certified marriage certificate).
+   - Birth, adoption, or placement for adoption of a dependent child (Attach official birth certificate or court adoption decree).
+   - Involuntary loss of minimum essential health coverage under another group plan (Attach Certificate of Creditable Coverage).
+   - Relocation outside the previous plan service network area.
+   - Divorce, legal separation, or death of a covered dependent.
+
+================================================================================
+PART D: DEPENDENT ELIGIBILITY CRITERIA
+================================================================================
+
+1. Eligible Dependents Defined:
+   - Legal Spouse or registered Domestic Partner.
+   - Dependent biological children, legally adopted children, or stepchildren up to the end of the month in which they reach age 26, regardless of student or marital status.
+   - Unmarried children of any age who are incapable of self-support due to a documented mental or physical disability established prior to age 26.
+
+================================================================================
+PART E: MEMBER ATTESTATION, PAYROLL DEDUCTION, AND SIGNATURE
+================================================================================
+
+Terms and Conditions:
+1. Payroll Deduction Authorization: I hereby authorize my employer to deduct from my earnings the required pre-tax or post-tax employee contribution for the coverage tier selected above.
+2. Accuracy Statement: I certify that all information submitted on this enrollment form is true, accurate, and complete to the best of my knowledge.
+3. Fraud Notification: Any person who knowingly and with intent to defraud files an application containing false, incomplete, or misleading information may be guilty of insurance fraud and subject to civil penalties and termination of policy coverage.
+4. Release of Medical Information: I authorize licensed healthcare providers and pharmacy benefit managers to disclose necessary health data to the plan administrator for treatment, payment, and healthcare operations.
+
+Applicant Electronic Signature: [Digitally Verified / Scanned Signature on File]
+Signer Name: Tanu Sharma
+Date of Execution: 2023-01-05
+Status: APPROVED & ARCHIVED
